@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Eno-Shica-Cho</string>
+    <string name="heading">Eno-Shica-Cho</string>
+    <string name="turns">  Player 1 : Turn</string>
+    <string name="reboot">Replay</string>
+
+
+</resources>
